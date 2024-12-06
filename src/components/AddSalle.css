@@ -1,0 +1,45 @@
+.form-group input{
+    color: white;
+height: 50px;
+width: 400px;
+margin-top: 20px;
+background: transparent;
+}
+.form-group input:hover{
+    height: 50px;
+    width: 420px;
+    box-shadow: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    background: transparent;
+    }
+.add-salle-container form:hover{
+
+width: 50%;
+margin-left: 25%;
+}
+.add-salle-container form button{
+   background: transparent;
+   font-style: initial;
+   color: white;
+   width: 100px;
+   cursor: pointer;
+   margin-top: 10px;
+    }
+    .add-salle-container form button:hover{
+        background: transparent;
+        font-style: initial;
+        color: white;
+        cursor: pointer;
+        margin-top: 10px;
+        width: 150px;
+        height: 30px;
+         }
+         .add-salle-container h2{
+            background: blueviolet;
+           
+            color: white;
+          
+            margin-top: 0px;
+            width: 100%;
+             }
